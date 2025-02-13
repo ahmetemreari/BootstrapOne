@@ -1,7 +1,10 @@
 # Bootstrap Portfolio Website / Bootstrap Portfolio Websitesi
+
 ## Screenshots | Ekran Görüntüleri
 
-(resim1.jpg)
+![Hero Section](screenshoots/nh1.png)
+*Hero Section with Parallax Effect | Paralaks Efektli Giriş Bölümü*
+
 
 
 [English](#english) | [Türkçe](#turkish)
