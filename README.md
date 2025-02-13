@@ -2,7 +2,7 @@
 
 ## Screenshots | Ekran Görüntüleri
 
-![Hero Section](screenshoots/nh1.png)
+![Screenshot1](resim1.jpg)
 *Hero Section with Parallax Effect | Paralaks Efektli Giriş Bölümü*
 
 
