@@ -1,10 +1,14 @@
 # Bootstrap Portfolio Website / Bootstrap Portfolio Websitesi
+## Screenshots | Ekran Görüntüleri
+
+(resim1.jpg)
+
 
 [English](#english) | [Türkçe](#turkish)
 
-## Turkish
+### Turkish
 
-### 🎯 Proje Hakkında
+#### 🎯 Proje Hakkında
 Modern ve duyarlı (responsive) bir kişisel portfolio websitesi. Bootstrap 5 kullanılarak geliştirilmiş, animasyonlar ve modern tasarım öğeleri içeren profesyonel bir web arayüzü.
 
 ### 🚀 Özellikler
